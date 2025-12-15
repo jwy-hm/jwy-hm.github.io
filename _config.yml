@@ -1,30 +1,30 @@
 # Site Information
-title: Tw93
+title: jwy-hm
 description: "一个喜欢开源和折腾的工程师"
-url: https://tw93.fun
-repo: tw93/tw93.github.io
+url: https://safehome.eu.org/
+repo: jwy-hm/jwy-hm.github.io
 lang: zh-CN
 encoding: utf-8
 timezone: Africa/El_Aaiun
 
 # Author Information (for SEO and AI crawlers)
 author:
-  name: Tw93
+  name: jwy-hm
   email: tw93@qq.com
-  url: https://tw93.fun
-  twitter: HiTw93
-  github: tw93
+  url: https://safehome.eu.org/
+  twitter: Hijwy-hm
+  github: jwy-hm
 
 # Social Media and External URLs
-github: tw93
-zhihu: tw93
-twitter: HiTw93
-v2ex: tw93
+github: jwy-hm
+zhihu: jwy-hm
+twitter: Hijwy-hm
+v2ex: jwy-hm
 menu:
   - title: "About"
     url: "/about.html"
   - title: "Weekly"
-    url: "https://weekly.tw93.fun/"
+    url: "https://weekly.tsafehome.eu.org/"
 
 # SEO and Analytics
 google_analytics: G-KS7EDB6BRM
