@@ -6,7 +6,7 @@ repo: jwy-hm/jwy-hm.github.io
 lang: zh-CN
 encoding: utf-8
 #timezone: Africa/El_Aaiun
-timezone:Asia/Shanghai
+timezone: Asia/Shanghai
 
 # Author Information (for SEO and AI crawlers)
 author:
