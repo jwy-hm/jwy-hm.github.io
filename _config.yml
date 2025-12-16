@@ -5,21 +5,22 @@ url: https://safehome.eu.org/
 repo: jwy-hm/jwy-hm.github.io
 lang: zh-CN
 encoding: utf-8
-timezone: Africa/El_Aaiun
+#timezone: Africa/El_Aaiun
+timezone:Asia/Shanghai
 
 # Author Information (for SEO and AI crawlers)
 author:
   name: jwy-hm
-  email: tw93@qq.com
+  email: gmzhaoyubo@gmail.com
   url: https://safehome.eu.org/
-  twitter: Hijwy-hm
+  twitter: JwyHm33758
   github: jwy-hm
 
 # Social Media and External URLs
 github: jwy-hm
-zhihu: jwy-hm
-twitter: Hijwy-hm
-v2ex: jwy-hm
+zhihu: jwy-hm #暂时没开通
+twitter: JwyHm33758
+v2ex: jwy-hm #暂时没开通
 menu:
   - title: "About"
     url: "/about.html"
@@ -27,7 +28,7 @@ menu:
     url: "https://weekly.safehome.eu.org/"
 
 # SEO and Analytics
-google_analytics: G-KS7EDB6BRM
+google_analytics: G-7205X1GQY2
 
 # Build Settings
 paginate: 10
@@ -115,7 +116,8 @@ defaults:
 
 # Custom Site Settings
 showBuyCoffee: true
-payImage: //gw.alipayobjects.com/zos/k/vb/1.png
+payImage: //picture.safehome.eu.org/20251216171720808.png
 assetUrl: //tw93.fun/images/
+#assetUrl: https://picture.safehome.eu.org/
 defaultImage: data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 
